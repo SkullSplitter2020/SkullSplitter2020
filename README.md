@@ -1,7 +1,10 @@
 <h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm SkullSplitter</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skullsplitter2020&abbreviated=true" alt="SkullSplitter2020" />
-	
+ <p align="left">
+  <a href="https://github.com/skullsplitter2020"><img src="https://komarev.com/ghpvc/?username=skullsplitter2020" alt="page views"></a>
+  <a href="https://github.com/skullsplitter2020?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/skullsplitter2020?color=green&logo=github"></a>
+</p>
+
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building [Pocket FM](https://pocketfm.com/).
