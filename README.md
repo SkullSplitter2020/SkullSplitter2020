@@ -52,3 +52,10 @@
 <br>
 </p>   
 
+<div align="center">
+<a href="https://github.com/skullsplitter2020/skullsplitter2020/issues/1#issuecomment-new">Guestbook</a> 
+</div>
+
+<!-- Guestbook -->
+
+<!-- /Guestbook -->
