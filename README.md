@@ -14,6 +14,8 @@
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 10 hours listening to songs every day.
+- ❤️ Open Source Software
+- 🐧 **Linux** ... it does infinite loops in 5 seconds..
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -53,12 +55,4 @@
 <a href="http://skullsplitter.my-gateway.de/" target="_blank" ><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
 
 <br>
-</p>   
-
-<div align="center">
-<a href="https://github.com/skullsplitter2020/skullsplitter2020/issues/1#issuecomment-new">Guestbook</a> 
-</div>
-
-<!-- Guestbook -->
-
-<!-- /Guestbook -->
+</p>
