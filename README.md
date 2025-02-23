@@ -7,7 +7,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [Kodi 21.1 Omega](https://kodi.tv/).
+- 🔭 I’m currently building [Kodi 21.2 Omega](https://kodi.tv/).
 - 🌱 I’m currently learning more about AI and LLMs.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/@sKullsInc2009).
 - 🤔 I’m looking for help with my side projects.
