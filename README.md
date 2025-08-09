@@ -19,7 +19,7 @@
 
 [![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/skullsplitter2020/skullsplitter2020/issues/1)
 <br/>
-## Guestbook ([🆕🖊️ add an entry](https://github.com/openscript/openscript/issues/1#issuecomment-new))
+## Guestbook ([🆕🖊️ add an entry]([https://github.com/openscript/openscript](https://github.com/SkullSplitter2020/SkullSplitter2020)/issues/1#issuecomment-new))
 <!-- Guestbook -->
 <br/>
 
